@@ -1,0 +1,1 @@
+Hi, i am a spring-boot and angular developer, i have a bachelor's degree in computer science.
